@@ -66,6 +66,16 @@ Techniques used to reduce overfitting:
 - Can be extended into web apps or APIs
 
 ---
+## 📈 Model Performance Summary
+
+| Model           | Train Accuracy | Test Accuracy | Remarks                |
+|----------------|----------------|---------------|------------------------|
+| Logistic        | 76%            | 50%           | Good baseline model    |
+| K-Nearest Neighbors (KNN) | 65%            | 49%           | Underfitting observed |
+| Random Forest   | 70%            | 50%           | Risk of overfitting    |
+| XGBoost         | 76%            | 50%           | Best performance so far|
+
+---
 
 ## ⚙️ Tech Stack
 
@@ -78,4 +88,7 @@ Techniques used to reduce overfitting:
 - **Jupyter Notebook** – development environment
 
 ---
+## 🧰 Installation & Usage
 
+For complete setup instructions and how to run the project, see the  
+📄 [Installation and Usage Guide](./installation-and-usage-guide.md)
