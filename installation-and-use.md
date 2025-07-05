@@ -1,5 +1,4 @@
-## 💻 How to Use
-
+## # ⚙️ Installation and Usage Guide
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/heart-disease-predictor.git
