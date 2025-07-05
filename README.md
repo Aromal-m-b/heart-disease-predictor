@@ -91,4 +91,4 @@ Techniques used to reduce overfitting:
 ## 🧰 Installation & Usage
 
 For complete setup instructions and how to run the project, see the  
-📄 [Installation and Usage Guide](./installation-and-usage-guide.md)
+📄 [Installation and Usage Guide](./installation-and-usage.md)
