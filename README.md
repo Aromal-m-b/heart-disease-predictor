@@ -92,3 +92,14 @@ Techniques used to reduce overfitting:
 
 For complete setup instructions and how to run the project, see the  
 📄 [Installation and Usage Guide](./installation-and-use.md)
+
+---
+---
+
+## 👨‍💻 About the Author
+
+**Aromal M B**  
+B.Tech Computer Science Student  
+College of Engineering, Poonjar (KTU)  
+GitHub: [@Aromal-m-b](https://github.com/Aromal-m-b)
+
